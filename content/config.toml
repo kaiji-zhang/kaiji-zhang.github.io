@@ -1,19 +1,19 @@
 [site]
-title = "Zilai Wang"
-description = "Zilai's Website"
+title = "Kaiji Zhang"
+description = "Kaiji's Website"
 last_updated = "Jan 18, 2026"
 
 [author]
-name = "Zilai Wang"
+name = "Kaiji Zhang"
 title = "PhD Student"
 institution = "University of California, Los Angeles"
-avatar = "/self_image.JPG"
+avatar = "/kaiji.jpeg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "zilaiwang2001@ucla.edu"
-google_scholar = "https://scholar.google.com/citations?user=t8xx6TIAAAAJ&hl"
+email = "kaijizhang@ucla.edu"
+google_scholar = "https://scholar.google.com/citations?user=7sY1zR8AAAAJ&hl=en"
 github = "https://github.com/Zilai-WANG"
 linkedin = "https://www.linkedin.com/in/zilai-wang-9b0197298"
 
