@@ -14,7 +14,7 @@ avatar = "/kaiji.jpeg"
 
 email = "kaijizhang@ucla.edu"
 google_scholar = "https://scholar.google.com/citations?user=7sY1zR8AAAAJ&hl=en"
-linkedin = "www.linkedin.com/in/kaiji-zhang-a6504327a"
+linkedin = "https://www.linkedin.com/in/kaiji-zhang-a6504327a/"
 
 [features]
 # Show a like button on the about page
