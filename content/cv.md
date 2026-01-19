@@ -1,20 +1,26 @@
 ## Education
 
-**University of California, Los Angeles**, PhD in Electrical and Computer Engineering, *2025 - Present*
-- Research focus: Child Speech Recognition
-- Supervisor: Prof. Abeer Alwan
+**University of California, Los Angeles**, PhD in Electrical and Computer Engineering, *2023 - Present*
+- Supervisor: Prof.Sam Emaminejad
 
-**University of California, Los Angeles**, MS in Electrical and Computer Engineering, *2023 - 2025*
+**University of California, Los Angeles**, M.S. in Material Science and Engineering,
+*2021 - 2023*
 
 
-**The Hong Kong Polytechnic University**, BSc in Electronics and Information Engineering, *2019 - 2023*
-- Graduated with First Class Honours
+**University of Science and Technology Beijing**, B.Eng. in Materials Science and Engineering, *2017 - 2021*
+
+
+**University of Manchester**, Exchange Student, Department of Materials Science and Engineering
+
+
 
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** Chinese (Native), English (Fluent)
+- **Electrochemical sensing (CV,EIS,SWV)** 
+- **LC-MS, fluorescence assays** 
+- **FTIR, XPS** 
+- **Small-animal in vivo experiments** 
+
 
 

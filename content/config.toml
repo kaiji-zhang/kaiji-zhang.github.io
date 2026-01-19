@@ -14,8 +14,7 @@ avatar = "/kaiji.jpeg"
 
 email = "kaijizhang@ucla.edu"
 google_scholar = "https://scholar.google.com/citations?user=7sY1zR8AAAAJ&hl=en"
-github = "https://github.com/Zilai-WANG"
-linkedin = "https://www.linkedin.com/in/zilai-wang-9b0197298"
+linkedin = "www.linkedin.com/in/kaiji-zhang-a6504327a"
 
 [features]
 # Show a like button on the about page
@@ -37,11 +36,7 @@ target = "publications"
 href = "/publications"
 
 
-[[navigation]]
-title = "Awards"
-type = "page"
-target = "awards"
-href = "/awards"
+
 
 
 [[navigation]]
