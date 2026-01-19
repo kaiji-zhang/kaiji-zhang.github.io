@@ -1,11 +1,12 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Zilai Wang"
+description = "PhD student at UCLA."
+url = "https://zilai-wang.github.io"
 favicon = "/favicon.svg"
 last_updated = "November 18, 2025"
 
 [author]
-name = "Jiale Liu"
+name = "Zilai Wang"
 title = "PhD Student"
 institution = "University of Example"
 avatar = "/bio.jpg"
