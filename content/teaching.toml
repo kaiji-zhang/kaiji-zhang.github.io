@@ -3,8 +3,22 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
+title = "UCLA ECE 113: Digital Signal Processing"
 subtitle = "Teaching Assistant"
 date = "2024"
-content = "Description of the course and responsibilities."
-tags = ["Undergraduate", "CS"]
+
+tags = ["Undergraduate", "ECE"]
+
+[[items]]
+title = "UCLA ECE 131A: Probability and Statistics"
+subtitle = "Teaching Assistant"
+date = "2025"
+
+tags = ["Undergraduate", "ECE"]
+
+[[items]]
+title = "UCLA ECE 114: Imaging and Audio Processing"
+subtitle = "Teaching Assistant"
+date = "2025"
+
+tags = ["Undergraduate", "ECE"]

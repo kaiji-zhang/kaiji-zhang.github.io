@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a PhD student at the Electrical and Computer Engineering, UCLA, advised by Prof.Abeer Alwan.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Prior to this, I obtained a BSc degree with First Class Honours in the Hong Kong Polytechnic University.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My current research focuses on investigating the Automatic Speech Recognition.

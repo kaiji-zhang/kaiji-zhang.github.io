@@ -2,26 +2,25 @@ type = "card"
 title = "Awards"
 description = "Honors and awards I have received."
 
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "1st Runner-up of Inter-departmental Final Year Project"
+subtitle = "2023 outstanding works by students"
 date = "2023"
-content = "Description of the award."
+content = "Sound event detection and localization"
+link = "https://github.com/Zilai-WANG/EIE4433-Speech-Recognition-of-tensorflow-Lite-on-Raspberry-pi"
+
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "The Hong Kong Government Scholarship"
+subtitle = "By Hong Kong Government"
+date = "2023"
+content = "80,000 HK dollar."
+
+[[items]]
+title = "The Hong Kong Polytechnic University Scholarship"
+subtitle = "By The Hong Kong Polytechnic University"
 date = "2022"
-content = "Description of the award."
+content = "40,000 HK dollar."
+
+

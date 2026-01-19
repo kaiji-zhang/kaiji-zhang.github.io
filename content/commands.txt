@@ -1,0 +1,15 @@
+# from your repo root
+npm install
+npm run build   # (or whatever PRISM uses to export)
+
+# ensure docs is the deploy folder and contains the exported site
+rm -rf docs
+cp -r out docs  # if PRISM outputs to 'out'
+# (if PRISM outputs to something else like 'dist', copy that instead)
+
+# IMPORTANT: prevent GitHub Pages/Jekyll from stripping _next/
+touch docs/.nojekyll
+
+git add -A
+git commit -m "Add .nojekyll for GitHub Pages"
+git push
